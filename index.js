@@ -77,8 +77,8 @@ function recursiveOddSumTo(number) {
     }
 }
 
-console.log(iterativeOddSumTo(1)) // 1
-console.log(iterativeOddSumTo(10)) // 25
+console.log(recursiveOddSumTo(1)) // 1
+console.log(recursiveOddSumTo(10)) // 25
 
 /* три дні без шуток сиділа і в мене нічого не виходило, і тут шось клацнуло і усе запрацювало і я безмежно рада але дивлячись зараз на цей код він такий простий аж обідно що я одразу не додумалась :(  */
 
